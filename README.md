@@ -21,12 +21,16 @@ to know how to get them click on the  #[ link ](https://github.com/ayushteke/sla
 
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://raw.githubusercontent.com/ayushteke/slam_aria_mirror_bot/master/deploy%20button%20removed.txt"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>    will not work use workflow method
 
 
 ## Features supported:
 
 - Mirroring direct download links to Google Drive
+- qBittorrent supported
+- selection of files before downloading torrent
+- Limiting size Torrent/Direct, Tar/Unzip, Mega, cloning Google Drive support
+- Stop duplicate cloning Google Drive & mirroring Mega support
 - Create Tar Google Drive folder
 - Mirroring Mega.nz links to Google Drive (In development stage)
 - Mirroring Uptobox.com links to Google Drive (Uptobox account must be premium)
@@ -43,7 +47,6 @@ after this click on the below button 👇👇👇👇
 - Limiting size Torrent/Direct, Mega, cloning Google Drive support
 - Mirror telegram files
 - Delete files from drive
-- Add stickers to your pack
 - Check Heroku dynos stats
 - Nyaa.si and Sukebei Torrent search
 - Shell and Executor
