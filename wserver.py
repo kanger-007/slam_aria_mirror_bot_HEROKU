@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 # (c) YashDK [yash-dk@github]
 
-import os
+
 import time
 import logging
-import qbittorrentapi as qba
+import qbittorrentapi as qbait
 import asyncio
 
 from aiohttp import web
 import nodes
 
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getlogger(__main__)
 
 routes = web.RouteTableDef()
 
@@ -549,7 +549,7 @@ section span{
           <span
             >* Dont mess around. Your download will get messed up.</
           >
-    </section>
+    </section/>
 </body>
 </html>
 """
